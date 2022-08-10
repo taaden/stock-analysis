@@ -8,14 +8,20 @@
    * Adding the "VBA_Challenge.vbs script to Microsoft  Visual Basic Editor.
    * The refactored script was editted and changed by numbered comments in starter code file
 ##### Results
-   *The result of both refactored and original code for the stocks analysis  basically the same  but the rate of execution is different as the refactored code was faster.   ![Screenshot_green_analysis_2017](https://user-images.githubusercontent.com/64270455/183978635-98230285-1443-4769-8219-61adf59425e2.png)![Screenshot_green_analysis_2018](https://user-images.githubusercontent.com/64270455/183978679-1275ea4f-b29c-4c82-ae2c-d008fb76c94d.png) ![Screenshot_stock-analysis_2017](https://user-images.githubusercontent.com/64270455/183979031-e255d242-0422-4f79-a8c4-3778bf26ad48.png)
+   *The result of both refactored and original code for the stocks analysis  basically the same  but the rate of execution is different as the refactored code was   faster.  
+   ![Screenshot_green_analysis_2017](https://user-images.githubusercontent.com/64270455/183978635-98230285-1443-4769-8219-61adf59425e2.png)![Screenshot_green_analysis_2018](https://user-images.githubusercontent.com/64270455/183978679-1275ea4f-b29c-4c82-ae2c-d008fb76c94d.png) 
+   ![Screenshot_stock-analysis_2017](https://user-images.githubusercontent.com/64270455/183979031-e255d242-0422-4f79-a8c4-3778bf26ad48.png)
 ![Screenshot_stock-analysis_2018](https://user-images.githubusercontent.com/64270455/183979132-62cf4638-cadb-4012-a9ee-b6c196e85b2c.png)
 
 
- * Almost the all stocks were in green zone in 2017,they were performing well, DQ(199.4%) and  SPWR(184.5%)stocks were outstanding.TERP stocks were not performing          well(-7.2%).
-   *The contrasts is true in 2018, when almost all the stocks were in the Red Zone buecause they are not preforming well including the high performing stocks of 2017    like DQ and SPWR stocks. Only two stocks ENPH and RUN were perfoming well 81.9% and 84% rate of returns.
-   *Refactored VBA script was very much faster than the original script used in module,while it took the original code 1.24s to execucte 2017 stocks analysis, it took the refactored script 0.21s.
-   While it took the original Script 1.53s to analyse the stoxks of 2018, the refractored script took 0.33s to execute the 2018 stocks analysis
+   * Almost the all stocks were in green zone in 2017,they were performing well, DQ(199.4%) and  SPWR(184.5%)stocks were outstanding.TERP stocks were not performing          well(-7.2%).
+   
+   * The contrasts is true in 2018, when almost all the stocks were in the Red Zone buecause they are not preforming well including the high performing stocks of 2017    like DQ and SPWR stocks. Only two stocks ENPH and RUN were perfoming well 81.9% and 84% rate of returns.
+   
+   *  Refactored VBA script was very much faster than the original script used in module,while it took the original code 0.98s to execucte 2017 stocks analysis, it took the refactored script 0.17s to analyse the same data.
+   
+   *  It took the original Script 1.066s to analyse the stoxks data of 2018, the refractored script took 0.144s to execute the 2018 stocks analysis
+   
    ![VBA_Challenge_2017](https://user-images.githubusercontent.com/64270455/183961718-07ae3295-cdf6-4991-aae0-cebbe695cfd1.png)
    ![VBA_challenge_2018](https://user-images.githubusercontent.com/64270455/183961840-3815eb86-3024-42d1-ae8d-2fb85611fb99.png)
    ![green_stock-analysis png_2017](https://user-images.githubusercontent.com/64270455/183961938-2a6fea12-f870-46bb-8582-707212e168bf.png)
@@ -29,4 +35,4 @@
   ###### Advantage of the Original Code
         *it is simpler and easier 
   ###### Disadvantage of the Original Code
-        *its execution is very slow and has a lot redundant and repeatitive code
+        *its execution is slow and has a lot redundant and repeatitive code
