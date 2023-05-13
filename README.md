@@ -1,6 +1,6 @@
 # Stock-Analysis
 
-### This project used a refactored VBA script to loop through all the data once and it collected all the needed information to analyze the stocks to determine their performance. These refactored scripts are expected to run faster than the original individually written code.
+### This project used a refactored VBA script to loop through all the data once. The refractored VBA script collected all the needed information to analyze the stocks and  determine their performance. These refactored scripts are expected to run faster than the original individually written code.
 #### Overview of the Project
 * Download of the "Challenge_starter_code.vbs" file and renamed it "VBA_Challenge.vbs"
 * Creation of "Resources" folder to hold the run time pop-up messages screenshots after running refactored analyses for 2017 and 2018.
@@ -13,9 +13,12 @@
 
 ![Screenshot_green_analysis_2017](https://user-images.githubusercontent.com/64270455/183978635-98230285-1443-4769-8219-61adf59425e2.png)
 
+
 ![Screenshot_green_analysis_2018](https://user-images.githubusercontent.com/64270455/183978679-1275ea4f-b29c-4c82-ae2c-d008fb76c94d.png) 
 
+
 ![Screenshot_stock-analysis_2017](https://user-images.githubusercontent.com/64270455/183979031-e255d242-0422-4f79-a8c4-3778bf26ad48.png)
+
 
 ![Screenshot_stock-analysis_2018](https://user-images.githubusercontent.com/64270455/183979132-62cf4638-cadb-4012-a9ee-b6c196e85b2c.png)
 
@@ -28,20 +31,29 @@
    
 *  It took the original Script 1.066s to analyze the stocks data of 2018; the refactored script took 0.144s to execute the 2018 stocks analysis
 
+
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/64270455/183961718-07ae3295-cdf6-4991-aae0-cebbe695cfd1.png)
+
 
 ![VBA_challenge_2018](https://user-images.githubusercontent.com/64270455/183961840-3815eb86-3024-42d1-ae8d-2fb85611fb99.png)
 
+
 ![green_stock-analysis png_2017](https://user-images.githubusercontent.com/64270455/183961938-2a6fea12-f870-46bb-8582-707212e168bf.png)
+
 
 ![green_stock-analysis png_2018](https://user-images.githubusercontent.com/64270455/183962012-90feb860-1b8c-41b1-9646-7670f850a856.png)
    
+
 ###### Summary
+
 ###### Advantanges of Refactoring Code
 *  Refactoring code has a lot of advantages over the original code; its execution is faster. In addition, Refactoring makes the code easier to understand as it is a known fact that developers read code much more often than they write. Therefore, it is in the stakeholder's best interest to keep the code as understandable as possible, increasing its maintainability. Also, Refactoring is a way of sharing knowledge because by refactoring a code, you gain a more profound understanding of what it does even though you did not write it initially.
+
 ###### Disadvantage of Refacoring Code
 * The only disadvantage I could see is that cracking all the code is time-consuming, but it is worth it.
+
 ###### Advantage of the Original Code
 * it is simpler and easier to use
+
 ###### Disadvantage of the Original Code
 * its execution is slow and has a lot of redundant and repetitive code
