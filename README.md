@@ -1,6 +1,6 @@
 # Stock-Analysis
 
-### This challenge was to use a refactored VBA script, which will loop through all the data once and collect all the needed information to analyze the stocks to determine their performance. These refactored scripts are expected to run faster than the original code used in the module.
+### This project used a refactored VBA script to loop through all the data once and it collected all the needed information to analyze the stocks to determine their performance. These refactored scripts are expected to run faster than the original individually written code.
 #### Overview of the Project
 * Download of the "Challenge_starter_code.vbs" file and renamed it "VBA_Challenge.vbs"
 * Creation of "Resources" folder to hold the run time pop-up messages screenshots after running refactored analyses for 2017 and 2018.
